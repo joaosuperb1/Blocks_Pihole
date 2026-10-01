@@ -1,0 +1,20 @@
+# Samsung
+lcprd1.samsungcloudsolution.net
+tvp-ads-log.samsungads.com
+
+# Mozilla telemetria
+incoming.telemetry.mozilla.org
+
+# Google anúncios / rastreamento
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+www.googletagmanager.com
+app-measurement.com
+
+# Outros rastreadores
+tvx.adgrx.com
+default.exp-tas.com
+fls-na.amazon.com.br
+
+# Opcional (descomente se quiser): consulta DNS do próprio sistema, normalmente inofensivo
+# _dns.resolver.arpa
